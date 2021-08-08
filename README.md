@@ -3,9 +3,9 @@
 
 ### Hi there! :wave:, 
 
-<br/>
+<!-- <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vrtineu&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
-
+ -->
 - :man_technologist: I'm currently looking for an trainee opportunity as a developer or RPA developer.
 - :seedling: I’m currently learning Python and UiPath RPA.
 - :mortar_board: Studying Analysis and Systems Development at UNIP.
