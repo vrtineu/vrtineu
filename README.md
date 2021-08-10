@@ -3,6 +3,6 @@
 
 ## Hi there! :wave:, 
 
-- :man_technologist: I'm currently looking for an trainee opportunity as a developer or RPA developer.
+- :man_technologist: I'm currently looking for an intern or trainee opportunity as a developer or RPA developer.
 - :seedling: I’m currently learning Python and UiPath RPA.
 - :mortar_board: Studying Analysis and Systems Development at UNIP.
