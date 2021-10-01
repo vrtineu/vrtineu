@@ -4,5 +4,4 @@
 ## Hi there! :wave:, 
 
 - :man_technologist: I'm currently looking for an intern or trainee opportunity as a developer.
-- :seedling: I’m currently learning Python.
 - :mortar_board: Studying Analysis and Systems Development at UNIP.
