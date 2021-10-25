@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/vrtineu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vrtineu&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrtineu&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vrtineu&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrtineu&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/>
 </div>
   
  ##
