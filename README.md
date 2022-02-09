@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/vrtineu">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vrtineu&show_icons=true&count_private=true&theme=midnight-purple&hide=issues"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrtineu&layout=compact&,c%23,shaderlab,hlsl&theme=midnight-purple"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrtineu&layout=compact&hide=c,python,c%23,shaderlab,hlsl&theme=midnight-purple"/>
 </div>
   
 ##
