@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Vinicius and I'm a software engineer!</h3>
+<h3 align="center">I'm Vinicius</h3>
 <p align="center">I'm now studying Analysis and Systems Development at the Estácio de Sá University, Brazil.</p>
 <p align="center">I'm also a intern developer at Docly.</p>
 
