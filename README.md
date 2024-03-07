@@ -11,7 +11,7 @@ I'm a 22-year-old based in São Paulo, Brazil, and a backend software engineer a
 
 ## Connect with Me
 
-📧 Email: <vininro@gmail.com>
+📧 Email: <vrtineu.dev@gmail.com>
 
 🔗 LinkedIn: [in/vrtineu](https://www.linkedin.com/in/vrtineu/)
 
